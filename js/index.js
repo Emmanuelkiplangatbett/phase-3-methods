@@ -44,7 +44,6 @@ function add(num1, num2) {
   const result = halve(4);
   console.log(result);
   => 2
-
   If the function is called with an argument that isn't a number, it should return null:
   const result = halve("two")
   => null
